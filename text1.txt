@@ -4,3 +4,4 @@ dob is N/A
 I am practicing git and github
 create a branch locally and merge with main locally
 update the remote repo and use 'git pull' to update the remote repo
+proof read done
