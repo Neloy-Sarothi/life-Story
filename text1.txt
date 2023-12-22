@@ -1,3 +1,4 @@
 hello this file is created for testing purposes
 I changed this file on 22 Dec, 2023
 dob is N/A
+I am practicing git and github
